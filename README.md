@@ -32,8 +32,6 @@ npm install
 npm run dev
 ```
 
-4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador
-
 ## Scripts Disponíveis
 
 - `npm run dev` - Inicia o servidor de desenvolvimento
